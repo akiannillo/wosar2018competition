@@ -27,7 +27,7 @@ The classification and dataset used in this competition were presented at ISSRE 
 
 Dataset will be released on the [WoSAR 2018 Data Competition Repository](https://github.com/akiannillo/wosar2018competition) on May 1st, 2018.
 
-Submissions are due by August 15th, 2018 and e-mailed to [**ak.iannillo+wosar2018competition@gmail.com**](ak.iannillo+wosar2018competition@gmail.com). 
+Submissions are due by August 15th, 2018 and e-mailed to [ak.iannillo+wosar2018competition@gmail.com](mailto:ak.iannillo+wosar2018competition@gmail.com). 
 
 Code submissions are preferred through a GitHub link to a repository (in this case, commits after the deadline will be ignored).
 
