@@ -35,5 +35,8 @@ Code submissions are preferred through a GitHub link to a repository (in this ca
 the WoSAR 2018 Competition Chair<br>
 Antonio Ken Iannillo, PhD<p>
 
+***
+
 ### REFERENCES
+
 [1] Xiao, G., Zheng, Z., Yin, B., Trivedi, K. S., Du, X., & Cai, K. (2017, October). Experience report: Fault triggers in Linux operating system: From evolution perspective. In Software Reliability Engineering (ISSRE), 2017 IEEE 28th International Symposium on (pp. 101-111). IEEE.
