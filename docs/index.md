@@ -32,7 +32,9 @@ Submissions are due by August 15th, 2018 and e-mailed to [ak.iannillo+wosar2018c
 Code submissions are preferred through a GitHub link to a repository (in this case, commits after the deadline will be ignored).
 
 Enjoy the Competition
+
 the WoSAR 2018 Competition Chair
+
 Antonio Ken Iannillo, PhD
 
 ***
