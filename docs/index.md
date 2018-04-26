@@ -38,7 +38,7 @@ The evaluation committee will evaluate the competitor based on:
 
 ### Important Dates
 
-Dataset release [(WoSAR 2018 Data Competition Repository)](https://github.com/akiannillo/wosar2018competition): May 15, 2018
+Dataset release [(WoSAR 2018 Data Competition Repository)](https://github.com/akiannillo/wosar2018competition): **May 15, 2018**
 
 Submission Deadline: **July 21, 2018** *MAY BE CHANGED*
 
