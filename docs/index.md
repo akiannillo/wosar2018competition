@@ -36,15 +36,15 @@ The evaluation committee will evaluate the competitor based on:
 ### Evaluation Committee 
 *To Be Defined...*
 
-### Important Dates
+### Important Dates 
 
 Dataset release [(WoSAR 2018 Data Competition Repository)](https://github.com/akiannillo/wosar2018competition): **May 15, 2018**
 
-Submission Deadline: **July 21, 2018** *MAY BE CHANGED*
+Submission Deadline: **July 21, 2018**
 
-Notification: **August 13, 2018** *MAY BE CHANGED*
+Notification: **August 13, 2018**
 
-Submission of Camera-Ready Copy Deadline: **August 28, 2018** *MAY BE CHANGED*
+Submission of Camera-Ready Copy Deadline: **August 28, 2018**
 
 The winner will be announced at the WoSAR 2018 Competition session.
 
